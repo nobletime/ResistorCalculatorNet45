@@ -6,4 +6,4 @@ Project uses restful API to POST ColorBandValues in a JSON object to the control
 
 Open MVCTest solution, ResistorCalculatorTest is the main project and ResistorCalculatorUnitTest project contains the unit test for testing the business logic. 
 
--Hesam
+Hesam.Motahar@yahoo.com
