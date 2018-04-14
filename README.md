@@ -7,3 +7,5 @@ Project uses restful API to POST ColorBandValues in a JSON object to the control
 OhmValueCalculator.cs is under folder "Business" which does the calculation. 
 
 Open MVCTest solution, ResistorCalculatorTest is the main project and ResistorCalculatorUnitTest project contains the unit test that tests the business logic. 
+
+Hesam.Motahar@yahoo.com
